@@ -26,7 +26,7 @@ The main objectives of this analysis were to:
 ---
 
 ## 📈 Dashboard Preview
-(Add Power BI dashboard screenshot here)
+![asset](images/overview.png)
 
 ## 🗂 Dataset
 Source: Kaggle – Hotel Booking Dataset  
