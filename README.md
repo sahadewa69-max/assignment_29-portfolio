@@ -26,15 +26,17 @@ The main objectives of this analysis were to:
 ---
 
 ## 📈 Dashboard Preview
-![asset](images/overview.png)
+![Dashboard Preview](./asset/overview.png)
+---
+![Dashboard Preview](./asset/guest_segment.png)
 
 ## 🗂 Dataset
-Source: Kaggle – Hotel Booking Dataset  
+Source: Kaggle – Hotel Booking [Dataset](https://www.kaggle.com/datasets/abdulmannann/hotel-booking-dataset-csv)  
 
 ---
 
 ## 🛠 Tools Used
-- Python
+- [Python](https://colab.research.google.com/drive/1BR4Im89WrkJeM8UfIOzhhWt6e1ifvpx1?usp=sharing)
 - Power BI
 
 ---
